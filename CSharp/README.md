@@ -14,7 +14,7 @@
 Existem basicamente duas formas de capitalizações, PascalCasing e camelCasing
 
 PascalCasing: Primeira letra de cada palavra em maiusculo
-camelCasing: Primeira Letrar minusculo e o restante maiusculo. O camelCasing é basicamente utilizado para parametros e variáveis de scopo local.
+camelCasing: Primeira letra minusculo e o restante maiusculo. O camelCasing é basicamente utilizado para parametros e variáveis de scopo local.
 
 Exemplos de uso:
 - Namespaces
